@@ -1,0 +1,8 @@
+streamlit
+python-docx
+PyPDF2
+pdf2image
+pytesseract
+Pillow
+langchain
+llama-cpp-python
